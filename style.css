@@ -1,6 +1,6 @@
 body {
     background: rgb(228, 222, 223);
-    font: normal 14pt Arial;
+    font: normal 12pt Arial;
     margin: 0 auto;
     padding: 0 20px 20px 20px;
 }
@@ -27,6 +27,7 @@ header {
     text-align: center;
     margin: 0 auto;
     max-width: 600px;
+    background-color: rgb(190, 164, 180);
 
 }
 
